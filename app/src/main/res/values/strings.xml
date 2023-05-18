@@ -3,4 +3,6 @@
     <string name="time_text">Time Left: %1d</string>
     <string name="score_text">Your Score: %1d</string>
     <string name="done_text">Time is up! Your score is: %1d</string>
+    <string name="about_title">TIME FIGHTER (%1$s)</string>
+    <string name="about_message">Fight the button to increase your score within a limited time.\n\n\nDeveloped by pickleali :)</string>
 </resources>
